@@ -86,7 +86,7 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
       {/* Features Section */}
       <div className="py-20 px-4">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-4xl text-center mb-16 text-primary">Геймификация и достижения</h2>
+          <h2 className="text-4xl text-center mb-16 text-primary">Геймификация и достижения(пока недоступно)</h2>
           
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <Card className="border-primary/20 hover:border-primary/40 transition-colors">
