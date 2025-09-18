@@ -15,7 +15,7 @@ export const ABANDONED_PLACES: AbandonedPlace[] = [
     },
     securityLevel: 'partial',
     addedAt: '2024-12-01T12:00:00Z',
-    tags: ['фабрика', 'завод', 'промышленность']
+    tags: ['zphopa', 'завод', 'промышленность']
   }
   // Для добавления новых мест отправьте заявку:
   // Telegram: @mangoabandoned
